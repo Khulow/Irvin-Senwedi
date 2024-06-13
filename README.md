@@ -1,4 +1,4 @@
-# Hi there, I'm Irvin Senwedi! 👋
+# Hi there, My name is Irvin Senwedi! 👋
 
 Welcome to my GitHub profile! Here's a bit about me.
 
@@ -26,7 +26,7 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-### [Project Name 1]
+### [Online Accomdation listing app.]
 
 **Description**: Online Accomdation listing app.
 
