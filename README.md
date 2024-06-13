@@ -12,7 +12,6 @@ Welcome to my GitHub profile! Here's a bit about me.
   - **Tools**: Unity, Oracle SQL, Firebase
 - 🌟 I am passionate about software development and continuously learning new technologies and best practices.
 - 💬 Feel free to ask me about anything related to my skills or projects.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 
 ## Skills
 
